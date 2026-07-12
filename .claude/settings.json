@@ -4,7 +4,8 @@
       "Bash(git fetch *)",
       "Bash(gh run *)",
       "Bash(curl -sL \"https://github.com/realler13/learn-cicd-starter/actions/workflows/ci.yml/badge.svg\")",
-      "Bash(curl -sI \"https://github.com/realler13/learn-cicd-starter/actions/workflows/ci.yml/badge.svg\")"
+      "Bash(curl -sI \"https://github.com/realler13/learn-cicd-starter/actions/workflows/ci.yml/badge.svg\")",
+      "Bash(gh repo *)"
     ]
   }
 }
